@@ -1,3 +1,5 @@
+/*inserting a new node binary tree using iterative method*/
+
 #include <iostream>
 #include <stack>
 using namespace std;
